@@ -30,7 +30,7 @@
 
 **What are your Phone specifications?** (CPU, GPU, Android Version, Operating System, more)
 
-[PC specs here]
+[Phone specs here]
 
 
 **Do you have any other relevant files? (e.g. logs, screenshots, save states, configuration files)**
