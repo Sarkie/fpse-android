@@ -33,7 +33,6 @@
 [PC specs here]
 
 
-**Is there any other relevant information? (e.g. logs, screenshots,
-configuration files)**
+**Do you have any other relevant files? (e.g. logs, screenshots, save states, configuration files)**
 
 [Anything else here]
